@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "categoria":"Deportes",
@@ -212,4 +213,220 @@
     }
 
 
+=======
+[
+    {
+        "categoria":"Deportes",
+        "pregunta":"¿Quién gano la copa libertadores 2018 en madrid?",
+        "respuesta":"River Plate",
+        "incorrecta1":"Boca Juniors",
+        "incorrecta2":"Flamengo",
+        "incorrecta3":"Real Madrid",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/12/09/15443761824641.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Deportes",
+        "pregunta":"¿Como fue el resultado del partido Argentina-Polonia en el mundial Qatar 2022?",
+        "respuesta":"Argentina 2 - 0 Polonia",
+        "incorrecta1":"Argentina 1 - 2 Polonia",
+        "incorrecta2":"Argentina 0 - 2 Polonia",
+        "incorrecta3":"Argentina 1 - 1 Polonia",
+        "imagen":"https://cdnmain-website.latina.pe/wp-content/uploads/2022/11/29200316/polonia-vs-argentina.png",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Deportes",
+        "pregunta":"¿Cuantas copas libertadores tiene River Plate?",
+        "respuesta":"Cuatro",
+        "incorrecta1":"Una",
+        "incorrecta2":"Tres",
+        "incorrecta3":"No gano copas libertadores",
+        "imagen":"https://www.cronista.com/files/image/453/453913/623d127eeca85.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Deportes",
+        "pregunta":"¿Que mundiales de futbol gano Argentina?",
+        "respuesta":"1978 - 1986 - 2022",
+        "incorrecta1":"1974 - 1982 - 2022",
+        "incorrecta2":"1986 - 1992 - 2022",
+        "incorrecta3":"1086 - 2022",
+        "imagen":"https://cnnespanol.cnn.com/wp-content/uploads/2022/12/messi-argentina-qatar-mundial-campeon-GettyImages-1450108664-e1671389219708.jpg?quality=100&strip=info",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Deportes",
+        "pregunta":"¿Cuantos balones de oro obtuvo Leo Messi a lo largo de su carrera?",
+        "respuesta":"Siete",
+        "incorrecta1":"Ocho",
+        "incorrecta2":"Cinco",
+        "incorrecta3":"Diez",
+        "imagen":"https://www.todosahora.com/wp-content/uploads/2022/08/messi-balon-oro.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Musica",
+        "pregunta":"¿Cual es el titulo del 1er album de Maria Becerra?",
+        "respuesta":"Animal",
+        "incorrecta1":"La Nena de Argentina",
+        "incorrecta2":"222",
+        "incorrecta3":"MB",
+        "imagen":"https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2022/12/maria-becerra-foto-2.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Musica",
+        "pregunta":"¿Cual es la canción con mas reproducciones de TINI?",
+        "respuesta":"Mienteme ft. Maria Becerra",
+        "incorrecta1":"Triple T",
+        "incorrecta2":"22 ft. Greeicy",
+        "incorrecta3":"Bar ft. L-Gante",
+        "imagen":"https://statics.launiontucuman.com/1/628a219f9935d.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Musica",
+        "pregunta":"¿Cual es el artista argentino con más oyentes mensuales en Spotify?",
+        "respuesta":"Bizarrap",
+        "incorrecta1":"Nicky Nicole",
+        "incorrecta2":"Duki",
+        "incorrecta3":"Paulo Londra",
+        "imagen":"https://phantom-marca-us.unidadeditorial.es/5d2838a0005367f924a96c5bdd2eb48f/resize/1980/f/jpg/assets/multimedia/imagenes/2022/06/07/16545575201224.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Musica",
+        "pregunta":"¿Con que canción 'salto' a la fama Maria Becerra",
+        "respuesta":"High",
+        "incorrecta1":"High Remix",
+        "incorrecta2":"Mienteme",
+        "incorrecta3":"Mi Debilidad",
+        "imagen":"https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2022/12/maria-becerra-foto-2.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Musica",
+        "pregunta":"¿Con que artista es la BZRP Music Sessions #24?",
+        "respuesta":"DANI",
+        "incorrecta1":"FRIJO",
+        "incorrecta2":"NICKI NICOLE",
+        "incorrecta3":"ZARAMAY",
+        "imagen":"https://www.diariodealmeria.es/2022/02/25/ocio/Bizarrap-grandes-figuras-musica-actual_1660045361_152730087_1200x675.jpg",
+        "object_fit":"cover" 
+    },
+
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Cuál es el río más largo y caudaloso del mundo?",
+        "respuesta":"El Amazonas",
+        "incorrecta1":"El Nilo",
+        "incorrecta2":"El Parana",
+        "incorrecta3":"El Tamesis",
+        "imagen":"https://services.meteored.com/img/article/descubre-los-rios-mas-raros-de-la-tierra-algunos-parecen-de-otro-planeta-1670008092686_768.jpeg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Cuál es la montaña más alta del continente americano?",
+        "respuesta":"Aconcagua",
+        "incorrecta1":"Everest",
+        "incorrecta2":"Pan de azucar",
+        "incorrecta3":"Tupungato",
+        "imagen":"https://static.nationalgeographicla.com/files/styles/image_3200/public/prod-yourshot-1528686-10557562.jpg?w=1600&h=900",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Qué país es el más poblado del mundo? ",
+        "respuesta":"China",
+        "incorrecta1":"Japon",
+        "incorrecta2":"Rusia",
+        "incorrecta3":"India",
+        "imagen":"https://definicion.de/wp-content/uploads/2010/10/mapa-1.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Cual de estos paises es el menos poblado?",
+        "respuesta":"San Marino",
+        "incorrecta1":"Dominica",
+        "incorrecta2":"Islas Marshall",
+        "incorrecta3":"Uruguay",
+        "imagen":"https://definicion.de/wp-content/uploads/2010/10/mapa-1.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Cuántos océanos hay en la Tierra?",
+        "respuesta":"Cinco",
+        "incorrecta1":"Ocho",
+        "incorrecta2":"Siete",
+        "incorrecta3":"Diez",
+        "imagen":"https://www.meteorologiaenred.com/wp-content/uploads/2022/07/que-es-un-oceano-e-importancia.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Argentinismo",
+        "pregunta":"¿A que pelicula pertenece la frase: '3 empanadas, que miseria'?",
+        "respuesta":"Esperando la carroza",
+        "incorrecta1":"El robo del siglo",
+        "incorrecta2":"El secreto de sus ojos",
+        "incorrecta3":"El clan",
+        "imagen":"https://infonews.com/datos/fotos/2022/04/08/401585-10/dest.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Argentinismo",
+        "pregunta":"¿Quien estaba duro duro, una linea menos la proxima?",
+        "respuesta":"El polaco",
+        "incorrecta1":"La Mole Moli",
+        "incorrecta2":"L-gante",
+        "incorrecta3":"Diego Maradona",
+        "imagen":"https://www.mdzol.com/u/fotografias/m/2022/11/18/f608x342-1318576_1348299_7.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Argentinismo",
+        "pregunta":"¿Quién cree que hay dinosaurios vivos?",
+        "respuesta":"Susana Gimenez",
+        "incorrecta1":"Moria Casan",
+        "incorrecta2":"Charlotte Cannigia",
+        "incorrecta3":"Vicky Xipolitakis",
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Argentina-Bandera-P2080016.JPG",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Argentinismo",
+        "pregunta":"¿Como se llamaba el perro de los Argentos?",
+        "respuesta":"Fatiga",
+        "incorrecta1":"Lolo",
+        "incorrecta2":"Barriga",
+        "incorrecta3":"Hueso",
+        "imagen":"https://resizer.glanacion.com/resizer/hfAXSfSLxw79Yh4eAx28S---DIE=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/PTWZ7WWS35EVPIRUBUHCO6A3CY.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Argentinismo",
+        "pregunta":"¿A quien pertenece la frase: 'Me estan haciendo bowling'?",
+        "respuesta":"Vicky Xipolitakis",
+        "incorrecta1":"Karina Jelinek",
+        "incorrecta2":"Cinthia Fernández",
+        "incorrecta3":"Charlotte Cannigia",
+        "imagen":"https://www.totalmedios.com/img/noticias/2023/03/64240fa076c33__838x390.jpg",
+        "object_fit":"cover" 
+    },
+    {
+        "categoria":"Argentinismo",
+        "pregunta":"¿A quien pertenece la frase: 'Pero si es una nena!'?",
+        "respuesta":"Francella",
+        "incorrecta1":"Tinelli",
+        "incorrecta2":"Fredy Villareal",
+        "incorrecta3":"Puma Rodriguez",
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Argentina-Bandera-P2080016.JPG",
+        "object_fit":"cover" 
+    }
+
+
+>>>>>>> 5e62ac846c9c56ccbafe2f166f6f6b6998fe2f9a
 ]
