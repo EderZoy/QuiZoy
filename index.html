@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIZ EZ</title>
+
+    <!--Relacionamos el archivo CSS-->
+    <link rel="stylesheet" href="style.css">
+    <link rel="preload" href="style.css" as="style">
+    <!--Relacionamos el archivo de normalización-->
+    <link rel="preload" href="normalize.css" as="style">
+    <link rel="stylesheet" href="normalize.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.5/dist/sweetalert2.all.min.js"></script>
+</head>
+
+<body>
+    <!--Contenedor de la estructura grafica-->
+    <div class="contenedor">
+
+        <div class="barra">
+            <h1 class="titulo">QuiZoy</h1>
+        </div>
+        <div class="encabezado">
+            <div class="cantidad" id="cantidad"> 
+                Cantidad </div>
+            <div class="categoria" id="categoria">
+                Categoria
+            </div>
+            <div class="pregunta" id="pregunta">
+                pregunta
+            </div>
+            <img src="" class="imagen" id="img">
+            
+
+        </div>
+        
+        <div class="btn" id="btn1" onclick="oprimir_btn(0)">Opción 1</div>
+        <div class="btn" id="btn2" onclick="oprimir_btn(1)">Opción 2</div>
+        <div class="btn" id="btn3" onclick="oprimir_btn(2)">Opción 3</div>
+        <div class="btn" id="btn4" onclick="oprimir_btn(3)">Opcion 4</div>
+
+    </div>
+
+    <!--Llamamos al archivo de JS-->
+    <script src="/scripts.js">  </script>
+    
+    <footer>Zoy Eder | 2023</footer>
+</body>
+</html>
