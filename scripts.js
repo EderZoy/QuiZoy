@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 let base_preguntas = readText("base-preguntas.json"); //guarda la pregunta que lee desde la base de preguntas.
 let interprete_bp = JSON.parse(base_preguntas);
 let posibles_rta = [];
@@ -287,7 +285,3 @@ function readText(ruta_local) {
         return texto;
 
 }
-
-
-
->>>>>>> 5e62ac846c9c56ccbafe2f166f6f6b6998fe2f9a
