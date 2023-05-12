@@ -1,0 +1,125 @@
+/*ARCHIVO DE ESTILO*/
+* { /*A todos los elementos se le aplica una transición suave*/
+    transition: all 0.2;
+}
+
+
+
+body {
+    background-color: rgb(142, 152, 161);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.contenedor {
+    width: 100vw;
+    height: 40vw;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    margin: 0 auto;
+    /*border: 1px solid white;*/
+}
+
+.barra {
+    background-color: rgb(255, 255, 255);
+    /*min-width: 300px;*/
+    width: 100%;
+    margin-top: 0px;
+    height: 50px;
+}
+.titulo {
+    font-size: 35px;
+    margin: 5px;
+    text-align: center;
+}
+.titulo:hover {
+    color:blueviolet;
+
+}
+
+.encabezado {
+    background-color: white;
+    min-width: 300px;
+    width: 70%;
+    padding: 5px;
+    margin-top: 40px;
+    height: 400px;
+}
+
+@media (min-width: 768px) {
+    .encabezado {
+        background-color: white;
+        min-width: 300px;
+        width: 70%;
+        padding: 5px;
+        margin-top: 40px;
+    }
+}
+
+.cantidad {
+    opacity: 0.3;
+    text-align: center;
+    font-weight: 700;
+    padding: 3px;
+} 
+
+.categoria {
+    opacity: 0.3;
+    text-align: left;
+    font-weight: 700;
+    padding: 3px;
+}
+
+.pregunta {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.imagen {
+    object-fit: fill; /*Se ajusta*/
+    width: 100%;
+    height: 150px;
+}
+
+@media (min-width: 768px) {
+    .imagen {
+        object-fit: cover; /*Se ajusta*/
+        width: 100%;
+        height: 300px;
+    }
+}
+
+
+.btn {
+    background-color: white;
+    padding: 5px;
+    margin-top: 4px;
+    width: 71%;
+
+}
+
+.btn:hover {
+    background-color: rgb(202, 188, 235);
+    cursor: pointer;
+    transform: scale(1.05);
+    font-weight: 700;
+}
+
+footer {
+    background-color:rgb(168, 181, 192);
+    font-size: 10px;
+    font-weight: 700;
+    width: 100%;
+    padding: 5px;
+    margin-top: 40px;
+    position: fixed;
+    bottom: 0;
+}
